@@ -1,0 +1,4 @@
+interface:
+  display_name: "Snarky Comeback"
+  short_description: "Sharpened snarky replies and comebacks"
+  default_prompt: "Use $snarky-comeback to turn this into a cold, sarcastic comeback without slurs or threats."
